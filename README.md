@@ -26,6 +26,8 @@ Consigli
 - Chiedo all'utente il suo nome e lo inserisco in una variabile
 - Chiedo all'utente il suo cognnome e lo inserisco in una variabile
 - Chiedo all'utente il suo colore preferito e lo inserisco in una variabile
+<!--BONUS-->
+- Recupero l'elemento html
 
 <!-- Esecuzione esercizio -->
 - Genero una password, utilizzando i tre dati inseriti e concateno 21 alla fine, e la conservo in un'altra variabile
@@ -34,4 +36,5 @@ Consigli
 <!-- Mostro i risultati -->
 - Mostro in console il messaggio con la nuova password appena generata
 <!-- Bonus -->
-- Mostro la il messaggio sulla pagina interagendo con il file html
+- Mostro la il messaggio sulla pagina inserendolo nell'elemento html
+
