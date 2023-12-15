@@ -9,3 +9,5 @@ console.log(favoriteColor);
 
 const password = firstName + lastName + favoriteColor + 21
 console.log(password);
+
+const message = `La tua password è: ${password}`;
